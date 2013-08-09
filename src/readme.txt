@@ -13,4 +13,4 @@
 	项目在myeclipse 2013中完成，迁移到10版本发现需要build path
 	可以右键点击项目名称-->Build Path-->Add Libraries...-->MyEclipse Library-->next-->JavaEE 6.0 Generic Library-->Finish
 
-	还有其他问题的话请联系我：zjuwmh@gmail.com (18658297963)
+	还有其他问题的话请联系我：zjuwmh@gmail.com
